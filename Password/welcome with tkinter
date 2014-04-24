@@ -1,0 +1,27 @@
+#hello, welcome to the password manager! Please enter the password! 
+
+# if entered password == password:
+	#okay you are in 
+
+	#do you want to create a account or look at accounts?
+
+	#if create an account:
+
+		# automatically generate password or do you already have one?
+
+			#if automatically generating passoword:
+				#call genPassword()
+				#ask for username, and group it is in
+				# export to pickle
+
+			#if typing it in
+				#typing box
+				#ask for username, and the group it is in
+				#export to pickle
+
+
+	#if looking at passwords
+		#option to select group
+		#option to select name
+		#option to browse
+
