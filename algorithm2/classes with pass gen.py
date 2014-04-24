@@ -35,10 +35,7 @@ class Password():
 
 	def updatePassword (self):
 		
-		wordsList = ["python", "programming", "ellie", "bosta", "bear", "bella", "charlie", "azul", "pinta",
-		  "theater", "techie", "Harpeth", "Hall", "Oak", "Hill", "2001", "01", "16", "2016", "bears", "honeybears"
-		  ,"lights", "stage", "manage", "sm", "asm","tennis", "soccer", "TNFC", "backstage", "lacrosse", "goalie", 
-		  "badger", "rock", "climbing", "climber"]
+		wordsList = []
 
 		x = len(wordsList) -1
 		x = int(x)
